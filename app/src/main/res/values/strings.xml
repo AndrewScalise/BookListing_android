@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">BookListing</string>
+
+    <string name="app_label">Book Listing</string>
+
+    <string name="search_hint">Search for books</string>
+
+    <string name="instructions">Search for a book by keywords(i.e. Harry Potter)</string>
 </resources>
